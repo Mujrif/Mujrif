@@ -5,7 +5,7 @@
 - I'm expert in HTML, CSS, JavaScript, Python and automation tools (N8N, GHL, Make). 
 - 🌱 I’m currently learning Databasing
 - 💞️ I’m looking to collaborate on anything related to software development/engineering 
-- 📫 <a href="https://www.linkedin.com/in/hassan-mujtaba-3ab98317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">  </p> <br> 
+- 📫 <a href="https://www.linkedin.com/in/hassan-mujtaba-3ab98317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer"> Reach me out on LinkedIn </a> </p> <br> 
 
 
 <!---
