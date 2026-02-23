@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mujrif
+- Author: Hassan Mujtaba @Mujrif
 - 👀 I’m in pursuit of full stack software engineering. My vertical is AI/ML
 - I'm expert in HTML, CSS, JavaScript, Python and automation tools (N8N, GHL, Make). 
 - 🌱 I’m currently learning Databasing
